@@ -1,5 +1,5 @@
 # Converge-to-manifold
-Converge points on a straight line to a manifold curve.
+Enforce points on a straight line to converge to a manifold curve.
 ![image](https://github.com/mkb9559/Converge-to-manifold/blob/main/20%20points.gif)
 ![image](https://github.com/mkb9559/Converge-to-manifold/blob/main/vector%20field1.jpg)
 ![image](https://github.com/mkb9559/Converge-to-manifold/blob/main/vector%20field2.jpg)
